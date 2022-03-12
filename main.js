@@ -88,4 +88,4 @@ client.on('message', async (message) => {
     
 
 });
-client.login("OTQ0ODgxMjY1NjIwOTQ2OTk0.YhIDQA.mVxqNO4OXIPZY8rDz1Z7PDoVdok"); //Head to https://discord.com/developers/applications 
+client.login(); //Head to https://discord.com/developers/applications 
